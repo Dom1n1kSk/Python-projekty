@@ -8,4 +8,4 @@ Možnosť dokúpiť popcorn alebo výhodné menu
 Vytlačenie finálneho lístka
 
 Ako to spustiť?
-„Stiahni si súbor a spusti ho v Pythone.
+Stiahni si súbor a spusti ho v Pythone.
