@@ -12,7 +12,7 @@ Features:
 
 Concepts & Technologies Used:
 
-- Language: Python 3.12
+- Language: Python 3.12+
 - Paradigm: Object-Oriented Programming (OOP) — Classes, Methods, Instances, Attributes
 - Modules Used: random (for attack power generation), time (for game pacing)
 - Control Flow: Game loop using while, conditional mechanics (if/else)1
@@ -20,5 +20,5 @@ Concepts & Technologies Used:
 
 How to Run:
 
-- Make sure Python 3 is installed on your machine.
+- Make sure Python 3.12+ is installed on your machine.
 - Clone this repository: https://github.com/Dom1n1kSk/Python-projekty/blob/main/RPG%20hra.py
