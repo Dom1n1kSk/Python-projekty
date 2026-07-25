@@ -1,9 +1,17 @@
-Rock, Paper, Scissors (Kameň, Papier, Nožnice)
+Rock Paper Scissors Game (CLI)
 
-Moja prvá hra vytvorená v Pythone, kde hráč hrá proti počítaču.
+A classic interactive command-line game built in Python. This project demonstrates randomisation, game loop logic, and handling user input against a computer opponent.
 
-Funkcie:
+Features:
 
-Náhodný výber počítača: Počítač si vygeneruje voľbu pomocou modulu random.
-Interaktívny vstup: Hráč si vyprá svoju voľbu cez konzolu.
-Vyhodnotenie logiky: Program porovná voľby a určí víťaza (alebo remízu).
+- User vs. Computer: The computer randomly selects its move using the Python `random` module.
+- Game Logic: Evaluates win/loss/tie conditions based on classic rules.
+- Continuous Play: The game runs in a loop until the user decides to quit.
+- Input Validation: Handles invalid user inputs gracefully.
+
+Concepts & Technologies Used:
+
+- Language: Python 3.12+
+- Modules: `random`
+- Control Flow:`while` loops, nested `if/elif/else` statements
+- User Interaction: `input()` formatting and standard output manipulation
